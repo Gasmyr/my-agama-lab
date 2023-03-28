@@ -1,1 +1,15 @@
-{}
+{
+    "GluuAuth": {
+        "project_description": "Gluu authentication",
+        "version": "0.0.1",
+        "author_website": "https://github.com/Gasmyr/my-agama-lab",
+        "gh_repo_path": "my-agama-lab",
+        "gh_author": "Gasmyr",
+        "author": "Gasmyr",
+        "github_uri": "https://github.com/Gasmyr/my-agama-lab",
+        "license": "MIT",
+        "project_name": "GluuAuth",
+        "last_updated": "1679998554406",
+        "project_type": "community"
+    }
+}
