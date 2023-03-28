@@ -1,0 +1,2 @@
+Flow gluu.auth.otpflow
+     Basepath "otp"
