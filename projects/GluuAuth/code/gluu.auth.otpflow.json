@@ -18,7 +18,7 @@
 					"y": 177
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 396,
 				"y": 177
@@ -48,39 +48,18 @@
 				"agamaData": {
 					"id": "Agama-trigger-Node-0bd76429-55fe-427c-94cd-d25a0ac14de4",
 					"type": "Agama-trigger-Node",
-					"hasSuccess": false,
-					"hasFailure": false,
-					"hasRepeat": false,
-					"hasNoRepeat": false,
+					"parentId": "Agama-call-Node-0c2d15fb-6aaa-4dfa-baae-143e677638d8",
 					"whenCondition": "",
 					"inRepeatBlock": false,
-					"parentId": "Agama-call-Node-0c2d15fb-6aaa-4dfa-baae-143e677638d8",
-					"name": "",
-					"basepath": "",
+					"nodeColor": "",
+					"flowFileName": "",
+					"asssignedVariableName": "",
 					"comment": "",
-					"notes": "",
-					"flowfilename": "",
-					"assignedvariableName": "",
 					"callType": "Call static method",
+					"logLevel": "info",
 					"arguments": "",
-					"logMessage": "",
-					"variableType": "",
-					"templatePath": "",
-					"maxIteration": "",
-					"idpAuthEndpoint": "",
-					"whenVariable": "",
-					"whenConditionInputField": "",
-					"whenValue": "",
-					"returnVariable": "",
-					"asssignmentExpression": "",
-					"javaClassName": "",
-					"javaMethodName": "",
-					"javaVariableName": "",
-					"maxIterationVariableName": "",
-					"logLevel": "",
-					"assignCallbackResult": "",
 					"displayName": "",
-					"nodeColor": ""
+					"nodeIcon": "material-symbols:sort-by-alpha"
 				}
 			},
 			"selected": false,
@@ -138,39 +117,19 @@
 				"agamaData": {
 					"id": "Agama-call-Node-0c2d15fb-6aaa-4dfa-baae-143e677638d8",
 					"type": "Agama-call-Node",
-					"hasSuccess": false,
-					"hasFailure": false,
-					"hasRepeat": false,
-					"hasNoRepeat": false,
+					"parentId": "Agama-start-Flow-f710ee57-aa9a-4004-aa27-d957aec4ecec",
 					"whenCondition": "",
 					"inRepeatBlock": false,
-					"parentId": "Agama-start-Flow-f710ee57-aa9a-4004-aa27-d957aec4ecec",
-					"name": "",
-					"basepath": "",
+					"nodeColor": "",
+					"asssignedVariableName": "",
 					"comment": "",
-					"notes": "",
-					"flowfilename": "",
-					"assignedvariableName": "",
-					"callType": "Call static method",
-					"arguments": "",
-					"logMessage": "",
-					"variableType": "",
-					"templatePath": "",
-					"maxIteration": "",
-					"idpAuthEndpoint": "",
-					"whenVariable": "",
-					"whenConditionInputField": "",
-					"whenValue": "",
-					"returnVariable": "",
-					"asssignmentExpression": "",
 					"javaClassName": "",
 					"javaMethodName": "",
-					"javaVariableName": "",
-					"maxIterationVariableName": "",
-					"logLevel": "",
-					"assignCallbackResult": "",
+					"callType": "Call static method",
+					"logLevel": "info",
+					"arguments": "",
 					"displayName": "",
-					"nodeColor": ""
+					"nodeIcon": "tabler:beta"
 				}
 			},
 			"selected": false,
@@ -260,7 +219,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -305,8 +264,8 @@
 		}
 	],
 	"viewport": {
-		"x": 4,
-		"y": 83,
+		"x": -3,
+		"y": 60,
 		"zoom": 1
 	}
 }
