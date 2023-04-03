@@ -1,0 +1,59 @@
+[
+  {
+    "id": "Agama-start-Flow-0c47e1cd-c800-4f89-8ab7-74917f2c25b8",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-0c47e1cd-c800-4f89-8ab7-74917f2c25b8",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 55
+      },
+      "handles": [],
+      "agamaData": {
+        "id": "Agama-start-Flow-0c47e1cd-c800-4f89-8ab7-74917f2c25b8",
+        "type": "Agama-start-Flow",
+        "hasSuccess": false,
+        "hasFailure": false,
+        "hasRepeat": false,
+        "hasNoRepeat": false,
+        "name": "",
+        "basepath": "mfa",
+        "comment": "",
+        "flowfilename": "",
+        "assignedvariableName": "",
+        "callType": "Call static method",
+        "arguments": "",
+        "logMessage": "",
+        "variableType": "",
+        "templatePath": "",
+        "maxIteration": "",
+        "idpAuthEndpoint": "",
+        "whenVariable": "",
+        "whenConditionInputField": "",
+        "whenValue": "",
+        "returnVariable": "",
+        "asssignmentExpression": "",
+        "javaClassName": "",
+        "javaMethodName": "",
+        "javaVariableName": "",
+        "maxIterationVariableName": "",
+        "logLevel": "",
+        "assignCallbackResult": "",
+        "displayName": "MFA Flow",
+        "nodeColor": "",
+        "titleColor": "",
+        "descColor": "",
+        "nodeIcon": "",
+        "flowname": "com.gluu.mfa"
+      },
+      "inRepeatBlock": false,
+      "whenCondition": ""
+    },
+    "position": {
+      "x": 30,
+      "y": 55
+    }
+  }
+]
