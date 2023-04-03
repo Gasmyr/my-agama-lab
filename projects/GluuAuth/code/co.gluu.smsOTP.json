@@ -1,0 +1,57 @@
+[
+  {
+    "id": "Agama-start-Flow-ee8cc06b-673c-40bd-87ea-c4575a4ba154",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-ee8cc06b-673c-40bd-87ea-c4575a4ba154",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 45
+      },
+      "handles": [],
+      "agamaData": {
+        "id": "Agama-start-Flow-ee8cc06b-673c-40bd-87ea-c4575a4ba154",
+        "type": "Agama-start-Flow",
+        "hasSuccess": false,
+        "hasFailure": false,
+        "hasRepeat": false,
+        "hasNoRepeat": false,
+        "name": "",
+        "basepath": "sms",
+        "comment": "",
+        "flowfilename": "",
+        "assignedvariableName": "",
+        "callType": "Call static method",
+        "arguments": "",
+        "logMessage": "",
+        "variableType": "",
+        "templatePath": "",
+        "maxIteration": "",
+        "idpAuthEndpoint": "",
+        "whenVariable": "",
+        "whenConditionInputField": "",
+        "whenValue": "",
+        "returnVariable": "",
+        "asssignmentExpression": "",
+        "javaClassName": "",
+        "javaMethodName": "",
+        "javaVariableName": "",
+        "maxIterationVariableName": "",
+        "logLevel": "",
+        "assignCallbackResult": "",
+        "displayName": "SMS OTP Flow",
+        "nodeColor": "",
+        "titleColor": "",
+        "descColor": "",
+        "nodeIcon": "",
+        "flowname": "co.gluu.smsOTP"
+      }
+    },
+    "position": {
+      "x": 30,
+      "y": 45
+    }
+  }
+]
