@@ -1,0 +1,57 @@
+[
+  {
+    "id": "Agama-start-Flow-04a35438-0539-4b82-a99e-14aaca0644b3",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-04a35438-0539-4b82-a99e-14aaca0644b3",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 75
+      },
+      "handles": [],
+      "agamaData": {
+        "id": "Agama-start-Flow-04a35438-0539-4b82-a99e-14aaca0644b3",
+        "type": "Agama-start-Flow",
+        "hasSuccess": false,
+        "hasFailure": false,
+        "hasRepeat": false,
+        "hasNoRepeat": false,
+        "name": "",
+        "basepath": "login",
+        "comment": "",
+        "flowfilename": "",
+        "assignedvariableName": "",
+        "callType": "Call static method",
+        "arguments": "",
+        "logMessage": "",
+        "variableType": "",
+        "templatePath": "",
+        "maxIteration": "",
+        "idpAuthEndpoint": "",
+        "whenVariable": "",
+        "whenConditionInputField": "",
+        "whenValue": "",
+        "returnVariable": "",
+        "asssignmentExpression": "",
+        "javaClassName": "",
+        "javaMethodName": "",
+        "javaVariableName": "",
+        "maxIterationVariableName": "",
+        "logLevel": "",
+        "assignCallbackResult": "",
+        "displayName": "Login Flow",
+        "nodeColor": "",
+        "nodeIcon": "",
+        "flowname": "co.gluu.login"
+      },
+      "inRepeatBlock": false,
+      "whenCondition": ""
+    },
+    "position": {
+      "x": 30,
+      "y": 75
+    }
+  }
+]
